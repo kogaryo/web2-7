@@ -15,4 +15,4 @@ else{
 message = '0~2の数字を入力してください';
 }
 
-document.getElementById('choice').textContent=answer;
+document.getElementById('choice').textContent=number;
